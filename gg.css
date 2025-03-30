@@ -1,0 +1,18 @@
+body {
+  background: url(782657.png);
+}
+.div1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  color: white;
+}
+.p-1 + {
+  padding-left: 30px;
+}
+
+.h-1 {
+  color: white;
+}
